@@ -1,0 +1,10 @@
+1. Mở file Nhận_diện_cử_chỉ_bàn_tay.ipynb trên Google Colab
+
+2. Cài đặt các thư viện sau:
+!pip install opencv-python Pillow numpy keras tensorflow
+
+3. Chạy code lần lượt theo thứ tự
+
+4. Chọn 2 file để tải lên : keras_model.h5 và  labels.txt
+
+5. Tiếp tục chạy code và sử dụng
