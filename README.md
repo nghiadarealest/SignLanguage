@@ -1,1 +1,1 @@
-# SignLanguage
+# ỨNG DỤNG MÔ HÌNH MẠNG NƠ-RON TÍCH CHẬP TRONG NHẬN DIỆN BẢNG CHỮ CÁI NGÔN NGỮ KÝ HIỆU THEO THỜI GIAN THỰC
