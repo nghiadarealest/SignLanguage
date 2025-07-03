@@ -72,7 +72,7 @@ Dự án này sử dụng **Google Teachable Machine** để xây dựng một m
 ## Kiểm thử
 ### Kiểm thử đa dạng hóa đối tượng người dùng
 - Chữ cái O:
-  ![image](https://github.com/user-attachments/assets/df0bc6ba-d929-43dc-899c-91ea5a28596c)
+- ![image](https://github.com/user-attachments/assets/df0bc6ba-d929-43dc-899c-91ea5a28596c)
   ![image](https://github.com/user-attachments/assets/4a85dc2e-c843-4a6f-84ed-f887035a30aa)
 - Chữ cái B:
   ![image](https://github.com/user-attachments/assets/2e83d81c-49ff-4c23-b425-584200556fb6)
