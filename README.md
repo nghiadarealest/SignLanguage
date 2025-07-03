@@ -72,28 +72,28 @@ Dự án này sử dụng **Google Teachable Machine** để xây dựng một m
 ## Kiểm thử
 ### Kiểm thử đa dạng hóa đối tượng người dùng
 - Chữ cái O:
-- ![image](https://github.com/user-attachments/assets/df0bc6ba-d929-43dc-899c-91ea5a28596c)
-- ![image](https://github.com/user-attachments/assets/4a85dc2e-c843-4a6f-84ed-f887035a30aa)
+  ![image](https://github.com/user-attachments/assets/df0bc6ba-d929-43dc-899c-91ea5a28596c)
+  ![image](https://github.com/user-attachments/assets/4a85dc2e-c843-4a6f-84ed-f887035a30aa)
 - Chữ cái B:
-- ![image](https://github.com/user-attachments/assets/2e83d81c-49ff-4c23-b425-584200556fb6)
-- ![image](https://github.com/user-attachments/assets/77f4a5cb-d733-4c5a-a266-ad7820e3516d)
+  ![image](https://github.com/user-attachments/assets/2e83d81c-49ff-4c23-b425-584200556fb6)
+  ![image](https://github.com/user-attachments/assets/77f4a5cb-d733-4c5a-a266-ad7820e3516d)
 ## Kiểm thử dưới điều kiện ánh sáng khác nhau
 - Nơi có ánh sáng mạnh:
-- ![image](https://github.com/user-attachments/assets/fe9724df-dae3-4f4a-af7c-c3f28a6ea867)
+  ![image](https://github.com/user-attachments/assets/fe9724df-dae3-4f4a-af7c-c3f28a6ea867)
 - Nơi có ánh sáng yếu:
-- ![image](https://github.com/user-attachments/assets/a861bc9c-90c3-4f54-a426-a11328603def)
+  ![image](https://github.com/user-attachments/assets/a861bc9c-90c3-4f54-a426-a11328603def)
 ## Kiểm thử biến đổi khoảng cách giữa Camera và đối tượng
 - Khi tay ở gần camera:
-- ![image](https://github.com/user-attachments/assets/8c464262-ac31-4760-bac3-baff612ae220)
+  ![image](https://github.com/user-attachments/assets/8c464262-ac31-4760-bac3-baff612ae220)
 - Khi tay ở xa camera:
-- ![image](https://github.com/user-attachments/assets/05a30487-3583-43c0-9a2b-49d993143987)
+  ![image](https://github.com/user-attachments/assets/05a30487-3583-43c0-9a2b-49d993143987)
 ## Kiểm thử phân biệt các ký hiệu tay có hình dáng tương đồng
 - Chữ cái K:
-- ![image](https://github.com/user-attachments/assets/fa971314-6c7b-440d-911f-cbd0e6338762)
+  ![image](https://github.com/user-attachments/assets/fa971314-6c7b-440d-911f-cbd0e6338762)
 - Chữ cái V:
-- ![image](https://github.com/user-attachments/assets/ee99ec9d-8638-44fe-9804-7e36d8485e46)
+  ![image](https://github.com/user-attachments/assets/ee99ec9d-8638-44fe-9804-7e36d8485e46)
 ## Kiểm thử khả năng nhận diện sau khi tách nền:
-- ![image](https://github.com/user-attachments/assets/dad4088d-d8c8-46b6-849c-aa9a5bfa91e3)
-- ![image](https://github.com/user-attachments/assets/cfd2ea55-ca44-4fd7-a38a-b0c2a0b5e094)
-- ![image](https://github.com/user-attachments/assets/8b4371eb-e63b-47ec-879b-3fee6313962a)
+![image](https://github.com/user-attachments/assets/dad4088d-d8c8-46b6-849c-aa9a5bfa91e3)
+![image](https://github.com/user-attachments/assets/cfd2ea55-ca44-4fd7-a38a-b0c2a0b5e094)
+![image](https://github.com/user-attachments/assets/8b4371eb-e63b-47ec-879b-3fee6313962a)
 
