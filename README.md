@@ -97,3 +97,14 @@ Dự án này sử dụng **Google Teachable Machine** để xây dựng một m
 ![image](https://github.com/user-attachments/assets/cfd2ea55-ca44-4fd7-a38a-b0c2a0b5e094)
 ![image](https://github.com/user-attachments/assets/8b4371eb-e63b-47ec-879b-3fee6313962a)
 
+## Hướng dẫn chạy code
+1. Mở file Nhận_diện_cử_chỉ_bàn_tay.ipynb trên Google Colab
+
+2. Cài đặt các thư viện sau:
+!pip install opencv-python Pillow numpy keras tensorflow
+
+3. Chạy code lần lượt theo thứ tự
+
+4. Chọn 2 file để tải lên : keras_model.h5 và labels.txt
+
+5. Tiếp tục chạy code và sử dụng
